@@ -33,6 +33,7 @@ FootStats visualizes football match data through dynamic line graphs that update
 
 **Project Link** - [FootStats Github Repository](https://github.com/KaylaPosthumusOW/FootStats.git)
 
+<p align="center">~ 🌼 ~</p>
 
 **Term 2** - Exhibito
 
@@ -44,6 +45,7 @@ Exhibito is a MERN stack application developed as part of a 4-person team projec
 
 **Project Link** - [Exhibito Github Repository](https://github.com/WolfOWI/exhibito.git)
 
+<p align="center">~ 🌼 ~</p>
 
 **Term 3** - FairyHaven Homes
 
@@ -55,6 +57,7 @@ Exhibito is a MERN stack application developed as part of a 4-person team projec
 
 **Project Link** - [FairyHaven Homes Github Repository](https://github.com/WolfOWI/exhibito.git)
 
+<p align="center">~ 🌼 ~</p>
 
 **Term 4** - Rejuicenate
 
@@ -75,7 +78,7 @@ Rejuicenate is a wellness app designed to simplify and enhance your health journ
 
 <p align="center">🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿</p>
 
-## <span style="color:#DFC8B8;">🛠 My Skills</span>
+## <span style="color:#DFC8B8;">🌟 My Skills</span>
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
@@ -114,7 +117,7 @@ Rejuicenate is a wellness app designed to simplify and enhance your health journ
 
 <p align="center">🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿</p>
 
-## <span style="color:#DFC8B8;">Get in Touch</span>
+## <span style="color:#DFC8B8;">📬 Get in Touch</span>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayla-posthumus-a75419327)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:231096@virtualwindow.co.za)
