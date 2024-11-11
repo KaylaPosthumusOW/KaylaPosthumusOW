@@ -5,25 +5,27 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+creating+and+coding!;&width=500&height=50&font=Roboto&color=DFC8B8)
 
+🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿
+
 ##  About Me
 
-- 🎓 Studying Interactive Development and UX Design
+- 🎓 Studying Interactive Development and UX Design at Open Window Institute
 - 💻 Coding with JavaScript, React, and Node.js
 - 🎸 Guitar player, tech enthusiast, and lifelong learner
 
----
+🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿
 
 ## 🛠️ My Favorite Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square) ![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=flat-square)
 
----
+🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿
 
-## 🌟 Featured Projects
+## Featured Projects
 
 **Term 1** - FootStats
 
-![FootStats](./assets/footstats%20readme.jpg)
+<img src="./assets/footstats%20readme.jpg" alt="FootStats" width="500"/>
 
 FootStats visualizes football match data through dynamic line graphs that update based on user-selected metrics such as goals, cards, substitutions, and inactivity.
 
@@ -34,7 +36,7 @@ FootStats visualizes football match data through dynamic line graphs that update
 
 **Term 2** - Exhibito
 
-![Exhibito](./assets/exhibito.jpg)
+<img src="./assets/exhibito.jpg" alt="Exhibito" width="500">
 
 Exhibito is a MERN stack application developed as part of a 4-person team project. The website allows art houses to manage exhibitions with full CRUD (Create, Read, Update, Delete) functionality, while enabling users to explore and engage with a variety of art events.
 
@@ -45,7 +47,7 @@ Exhibito is a MERN stack application developed as part of a 4-person team projec
 
 **Term 3** - FairyHaven Homes
 
-![FairyHaven Homes](./assets/FHH.jpg)
+<img src="./assets/FHH.jpg" alt="FairyHaven Homes" width="500"/>
 
 Exhibito is a MERN stack application developed as part of a 4-person team project. The website allows art houses to manage exhibitions with full CRUD (Create, Read, Update, Delete) functionality, while enabling users to explore and engage with a variety of art events.
 
@@ -56,7 +58,7 @@ Exhibito is a MERN stack application developed as part of a 4-person team projec
 
 **Term 4** - Rejuicenate
 
-![Rejuicenate](./assets/rejuicenate%20github.jpg)
+<img src="./assets/rejuicenate github.jpg" alt="Rejuicenate" width="500"/>
 
 Rejuicenate is a wellness app designed to simplify and enhance your health journey. With personalised juice plans, progress tracking, and tailored recommendations, Rejuicenate makes healthy living accessible and motivating. Explore juices, track your goals, and enjoy a more mindful approach to nutrition—all in one intuitive, responsive platform.
 
@@ -64,14 +66,14 @@ Rejuicenate is a wellness app designed to simplify and enhance your health journ
 
 **Project Link** - [Rejuicenate Github Repository](https://github.com/KaylaPosthumusOW/Rejuicenate.git)
 
----
+🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿
 
 ## 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaylaPOsthumusOW&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaylaPosthumusOW&layout=compact&theme=onedark)
 
----
+🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿
 
 ## 🛠 My Skills
 
@@ -110,11 +112,10 @@ Rejuicenate is a wellness app designed to simplify and enhance your health journ
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
+🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿
 
+## Get in Touch
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayla-posthumus-a75419327)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:231096@virtualwindow.co.za)
 
----
-
-## 🎶 Currently Listening to on Spotify
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem)
