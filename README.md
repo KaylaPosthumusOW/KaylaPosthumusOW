@@ -1,27 +1,27 @@
 
 ![Project Demo](./assets/Github%20profile.jpg)
 
-# Hi there, I'm Kayla!
+# <span style="color:#DFC8B8;">Hi there, I'm Kayla!</span>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+creating+and+coding!;&width=500&height=50&font=Roboto&color=DFC8B8)
 
-🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿
+<p align="center">🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿</p>
 
-##  About Me
+## <span style="color:#DFC8B8;">🌸 About Me</span>
 
 - 🎓 Studying Interactive Development and UX Design at Open Window Institute
 - 💻 Coding with JavaScript, React, and Node.js
 - 🎸 Guitar player, tech enthusiast, and lifelong learner
 
-🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿
+<p align="center">🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿</p>
 
-## 🛠️ My Favorite Tools
+## <span style="color:#DFC8B8;">🛠️ My Favorite Tools</span>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square) ![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=flat-square)
 
-🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿
+<p align="center">🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿</p>
 
-## Featured Projects
+## <span style="color:#DFC8B8;">🌼 Featured Projects</span>
 
 **Term 1** - FootStats
 
@@ -66,16 +66,16 @@ Rejuicenate is a wellness app designed to simplify and enhance your health journ
 
 **Project Link** - [Rejuicenate Github Repository](https://github.com/KaylaPosthumusOW/Rejuicenate.git)
 
-🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿
+<p align="center">🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿</p>
 
-## 📈 GitHub Stats
+## <span style="color:#DFC8B8;">📈 GitHub Stats</span>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaylaPOsthumusOW&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaylaPosthumusOW&layout=compact&theme=onedark)
 
-🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿
+<p align="center">🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿</p>
 
-## 🛠 My Skills
+## <span style="color:#DFC8B8;">🛠 My Skills</span>
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
@@ -112,9 +112,9 @@ Rejuicenate is a wellness app designed to simplify and enhance your health journ
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿
+<p align="center">🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿</p>
 
-## Get in Touch
+## <span style="color:#DFC8B8;">Get in Touch</span>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayla-posthumus-a75419327)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:231096@virtualwindow.co.za)
