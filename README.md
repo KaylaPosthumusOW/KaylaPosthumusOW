@@ -15,7 +15,7 @@
 
 Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **User Experience Designer** studying at the **Open Window Institute**. I enjoy bringing creative ideas to life through technology and problem-solving at the intersection of **code**, **design**, and **user experience**. From building intuitive mobile apps with **Flutter** to developing full-stack web applications using the **MERN stack**, I thrive on creating elegant solutions that prioritize **human-centered design**. When I'm not coding, you'll find me sketching out ideas in **Figma**, experimenting with new technologies, or enjoying some downtime with my guitar.
 
-> *"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."*
+> *“Design is everywhere - from the dress you’re wearing to the smartphones you’re holding” - Samandra Ginigi*
 
 📚 **Student** at the **Open Window Institute**  
 🎓 **Studying**: Interactive Development & UX Design  
