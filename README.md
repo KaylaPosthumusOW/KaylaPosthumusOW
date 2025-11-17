@@ -1,124 +1,145 @@
+<div align="center">
 
-![Project Demo](./assets/Github%20profile.jpg)
+# Welcome to Kayla's GitHub
+`</>`
 
-# <span style="color:#DFC8B8;">Hi there, I'm Kayla!</span>
+---
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+creating+and+coding!;&width=500&height=50&font=Roboto&color=DFC8B8)
+### 👩‍💻 Interactive Developer | 🎨 UX Designer | 🌿 Creative Problem Solver
 
-<p align="center">🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿</p>
+</div>
 
-## <span style="color:#DFC8B8;">🌸 About Me</span>
+---
 
-- 🎓 Studying Interactive Development and UX Design at Open Window Institute
-- 💻 Coding with JavaScript, React, and Node.js
-- 🎸 Guitar player, tech enthusiast, and lifelong learner
+## 🖤 About me
 
-<p align="center">🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿</p>
+Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **User Experience Designer** studying at the **Open Window Institute**. I enjoy bringing creative ideas to life through technology and problem-solving at the intersection of **code**, **design**, and **user experience**. From building intuitive mobile apps with **Flutter** to developing full-stack web applications using the **MERN stack**, I thrive on creating elegant solutions that prioritize **human-centered design**. When I'm not coding, you'll find me sketching out ideas in **Figma**, experimenting with new technologies, or enjoying some downtime with my guitar.
 
-## <span style="color:#DFC8B8;">🛠️ My Favorite Tools</span>
+> *"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."*
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square) ![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=flat-square)
+📚 **Student** at the **Open Window Institute**  
+🎓 **Studying**: Interactive Development & UX Design  
+🌱 **Currently learning**: Advanced Flutter patterns, Firebase integrations, and modern backend architecture  
+💡 **Passionate about**: Clean UI, mobile-first design, and accessible web experiences  
 
-<p align="center">🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿</p>
+---
 
-## <span style="color:#DFC8B8;">🌼 Featured Projects</span>
+## 🖤 Technologies
 
-**Term 1** - FootStats
-
-<img src="./assets/footstats%20readme.jpg" alt="FootStats" width="500"/>
-
-FootStats visualizes football match data through dynamic line graphs that update based on user-selected metrics such as goals, cards, substitutions, and inactivity.
-
-**Technologies Used:** - React, Express JS, Node JS, Chart.js React Chart.js 2, Axios, React Router
-
-**Project Link** - [FootStats Github Repository](https://github.com/KaylaPosthumusOW/FootStats.git)
-
-<p align="center">~ 🌼 ~</p>
-
-**Term 2** - Exhibito
-
-<img src="./assets/exhibito.jpg" alt="Exhibito" width="500">
-
-Exhibito is a MERN stack application developed as part of a 4-person team project. The website allows art houses to manage exhibitions with full CRUD (Create, Read, Update, Delete) functionality, while enabling users to explore and engage with a variety of art events.
-
-**Technologies Used:** MongoDB, Express JS, React, Node JS, Axios, Tailwind CSS, React Bootstrap, React Router, JWT, BCrypt, CORS.
-
-**Project Link** - [Exhibito Github Repository](https://github.com/WolfOWI/exhibito.git)
-
-<p align="center">~ 🌼 ~</p>
-
-**Term 3** - FairyHaven Homes
-
-<img src="./assets/FHH.jpg" alt="FairyHaven Homes" width="500"/>
-
-Exhibito is a MERN stack application developed as part of a 4-person team project. The website allows art houses to manage exhibitions with full CRUD (Create, Read, Update, Delete) functionality, while enabling users to explore and engage with a variety of art events.
-
-**Technologies Used:** MongoDB, Express JS, React, Node JS, Axios, React Bootstrap, React Router, JWT, BCrypt, CORS.
-
-**Project Link** - [FairyHaven Homes Github Repository](https://github.com/WolfOWI/exhibito.git)
-
-<p align="center">~ 🌼 ~</p>
-
-**Term 4** - Rejuicenate
-
-<img src="./assets/rejuicenate github.jpg" alt="Rejuicenate" width="500"/>
-
-Rejuicenate is a wellness app designed to simplify and enhance your health journey. With personalised juice plans, progress tracking, and tailored recommendations, Rejuicenate makes healthy living accessible and motivating. Explore juices, track your goals, and enjoy a more mindful approach to nutrition—all in one intuitive, responsive platform.
-
-**Technologies Used:** MongoDB, Express JS, React, Node JS, Axios, React Bootstrap, React Router, JWT, bcryptjs, CORS, React Confetti, React Modal, UUID.
-
-**Project Link** - [Rejuicenate Github Repository](https://github.com/KaylaPosthumusOW/Rejuicenate.git)
-
-<p align="center">🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿</p>
-
-## <span style="color:#DFC8B8;">📈 GitHub Stats</span>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaylaPOsthumusOW&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaylaPosthumusOW&layout=compact&theme=onedark)
-
-<p align="center">🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿</p>
-
-## <span style="color:#DFC8B8;">🌟 My Skills</span>
+### Main Technologies
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=A3B18A)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=A3B18A)
+![Dart](https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=A3B18A)
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=A3B18A)
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=A3B18A)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=A3B18A)
+![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=A3B18A)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat&logo=php&logoColor=A3B18A)
 
 ### Front-End Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=A3B18A)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=A3B18A)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=A3B18A)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=A3B18A)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=A3B18A)
+![SCSS](https://img.shields.io/badge/SCSS-000000?style=flat&logo=sass&logoColor=A3B18A)
 
 ### Back-End Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=A3B18A)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=A3B18A)
 
 ### Database Management
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=A3B18A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=A3B18A)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=A3B18A)
 
 ### Charting & Data Visualization
-![Chart.js](https://img.shields.io/badge/Chart.js-FB9F00?style=for-the-badge&logo=chart.js)
+![Chart.js](https://img.shields.io/badge/Chart.js-000000?style=flat&logo=chart.js&logoColor=A3B18A)
 
 ### Deployment & Cloud Platforms
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=A3B18A)
+![Heroku](https://img.shields.io/badge/Heroku-000000?style=flat&logo=heroku&logoColor=A3B18A)
 
 ### Software & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=A3B18A)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-000000?style=flat&logo=adobe-illustrator&logoColor=A3B18A)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visual-studio-code&logoColor=A3B18A)
+![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=flat&logo=android-studio&logoColor=A3B18A)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=A3B18A)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=A3B18A)
+![Pub.dev](https://img.shields.io/badge/Pub.dev-000000?style=flat&logo=dart&logoColor=A3B18A)
 
-<p align="center">🌿 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 🌿</p>
+---
 
-## <span style="color:#DFC8B8;">📬 Get in Touch</span>
+## 🖤 Statistics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayla-posthumus-a75419327)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:231096@virtualwindow.co.za)
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaylaPosthumusOW&show_icons=true&hide_border=true&title_color=A3B18A&text_color=ffffff&icon_color=A3B18A&bg_color=000000&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaylaPosthumusOW&layout=compact&hide_border=true&title_color=A3B18A&text_color=ffffff&bg_color=000000&hide=html,css&langs_count=8" />
+
+</div>
+
+---
+
+## 🖤 Featured Projects
+
+### **Term 1 – FootStats**
+<img src="./assets/footstats%20readme.jpg" width="500"/>
+
+> A football data visualisation platform with real-time, interactive graphs.
+
+**Tech:** React • Express • Chart.js • Axios  
+🔗 **Repo:** https://github.com/KaylaPosthumusOW/FootStats.git
+
+---
+
+## **Term 2 – Exhibito**
+<img src="./assets/exhibito.jpg" width="500"/>
+
+> MERN stack exhibition manager that allows art houses to create and manage exhibitions.
+
+**Tech:** MongoDB • Express • React • Node.js • Tailwind • JWT  
+🔗 **Repo:** https://github.com/WolfOWI/exhibito.git
+
+---
+
+## **Term 3 – FairyHaven Homes**
+<img src="./assets/FHH.jpg" width="500"/>
+
+> A whimsical UX-focused property management system with secure authentication.
+
+**Tech:** MERN Stack  
+🔗 **Repo:** *(coming soon?)*
+
+---
+
+## **Term 4 – Rejuicenate**
+<img src="./assets/rejuicenate github.jpg" width="500"/>
+
+> A wellness & nutrition platform with progress tracking, gamification, and personalised juices.
+
+**Tech:** MERN • React Bootstrap • JWT • Confetti  
+🔗 **Repo:** https://github.com/KaylaPosthumusOW/Rejuicenate.git
+
+---
+
+## 🖤 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=A3B18A)](https://www.linkedin.com/in/kayla-posthumus-a75419327)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=A3B18A)](mailto:231096@virtualwindow.co.za)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=A3B18A)](https://github.com/KaylaPosthumusOW)
+
+</div>
+
+---
+
+<div align="center">
+
+*Crafted with ♡ by Kayla Posthumus*
+
+</div>
