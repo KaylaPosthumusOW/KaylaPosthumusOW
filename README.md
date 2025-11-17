@@ -1,19 +1,14 @@
 <div align="center">
 
-# Welcome to Kayla's GitHub
-`</>`
-
----
+<img src="./assets/Github profile.jpg" width="500"/>
 
 ### 👩‍💻 Interactive Developer | 🎨 UX Designer | 🌿 Creative Problem Solver
 
 </div>
 
----
+## ♡ About me ♡
 
-## 🖤 About me
-
-Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **User Experience Designer** studying at the **Open Window Institute**. I enjoy bringing creative ideas to life through technology and problem-solving at the intersection of **code**, **design**, and **user experience**. From building intuitive mobile apps with **Flutter** to developing full-stack web applications using the **MERN stack**, I thrive on creating elegant solutions that prioritize **human-centered design**. When I'm not coding, you'll find me sketching out ideas in **Figma**, experimenting with new technologies, or enjoying some downtime with my guitar.
+Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **User Experience Designer** studying at the **Open Window Institute**. I enjoy bringing creative ideas to life through technology and problem-solving at the intersection of **code**, **design**, and **user experience**. From building intuitive mobile apps with **Flutter** to developing full-stack web applications using the **MERN stack**, I thrive on creating elegant solutions that prioritise **human-centered design**. When I'm not coding, you'll find me sketching out ideas in **Figma**, experimenting with new technologies, or enjoying some downtime with my guitar.
 
 > *“Design is everywhere - from the dress you’re wearing to the smartphones you’re holding” - Samandra Ginigi*
 
@@ -22,11 +17,9 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 🌱 **Currently learning**: Advanced Flutter patterns, Firebase integrations, and modern backend architecture  
 💡 **Passionate about**: Clean UI, mobile-first design, and accessible web experiences  
 
----
+## ⚙️ Technologies
 
-## 🖤 Technologies
-
-### Main Technologies
+### ⭐ Main Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=A3B18A)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=A3B18A)
 ![Dart](https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=A3B18A)
@@ -55,7 +48,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=A3B18A)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=A3B18A)
 
-### Charting & Data Visualization
+### Charting & Data Visualisation
 ![Chart.js](https://img.shields.io/badge/Chart.js-000000?style=flat&logo=chart.js&logoColor=A3B18A)
 
 ### Deployment & Cloud Platforms
@@ -71,9 +64,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=A3B18A)
 ![Pub.dev](https://img.shields.io/badge/Pub.dev-000000?style=flat&logo=dart&logoColor=A3B18A)
 
----
-
-## 🖤 Statistics
+## 📊 Statistics
 
 <div align="center">
 
@@ -82,58 +73,60 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 
 </div>
 
----
+## ♡ My Projects ♡
 
-## 🖤 Featured Projects
+### 2025 Projects
 
-### **Term 1 – FootStats**
+#### **Coming Soon**
+> Exciting new projects currently in development.
+
+### 2024 Projects
+
+#### **Term 1 – FootStats**
 <img src="./assets/footstats%20readme.jpg" width="500"/>
 
 > A football data visualisation platform with real-time, interactive graphs.
 
 **Tech:** React • Express • Chart.js • Axios  
-🔗 **Repo:** https://github.com/KaylaPosthumusOW/FootStats.git
+🔗 **[Repo](https://github.com/KaylaPosthumusOW/FootStats.git)**
 
-### **Term 2 – Exhibito**
+#### **Term 2 – Exhibito**
 <img src="./assets/exhibito.jpg" width="500"/>
 
 > MERN stack exhibition manager that allows art houses to create and manage exhibitions.
 
 **Tech:** MongoDB • Express • React • Node.js • Tailwind • JWT  
-🔗 **Repo:** https://github.com/WolfOWI/exhibito.git
+🔗 **[Repo](https://github.com/WolfOWI/exhibito.git)**
 
-### **Term 3 – FairyHaven Homes**
+#### **Term 3 – FairyHaven Homes**
 <img src="./assets/FHH.jpg" width="500"/>
 
 > A whimsical UX-focused property management system with secure authentication.
 
 **Tech:** MERN Stack  
-🔗 **Repo:** *(coming soon?)*
+🔗 **[Repo](https://github.com/KaylaPosthumusOW/FairyHaven_Homes)**
 
-### **Term 4 – Rejuicenate**
+#### **Term 4 – Rejuicenate**
 <img src="./assets/rejuicenate github.jpg" width="500"/>
 
 > A wellness & nutrition platform with progress tracking, gamification, and personalised juices.
 
 **Tech:** MERN • React Bootstrap • JWT • Confetti  
-🔗 **Repo:** https://github.com/KaylaPosthumusOW/Rejuicenate.git
+🔗 **[Repo](https://github.com/KaylaPosthumusOW/Rejuicenate.git)**
 
----
-
-## 🖤 Let's Connect
+## ♡ Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=A3B18A)](https://www.linkedin.com/in/kayla-posthumus-a75419327)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=A3B18A)](mailto:231096@virtualwindow.co.za)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=A3B18A)](https://github.com/KaylaPosthumusOW)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=A3B18A&labelColor=000000)](https://www.linkedin.com/in/kayla-posthumus-a75419327)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=A3B18A&labelColor=000000)](mailto:231096@virtualwindow.co.za)
+[![Linktree](https://img.shields.io/badge/Linktree-000000?style=flat&logo=linktree&logoColor=A3B18A&labelColor=000000)](https://linktr.ee/kayla_posthumus)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=A3B18A&labelColor=000000)](https://github.com/KaylaPosthumusOW)
 
 </div>
 
----
-
 <div align="center">
 
-*Crafted with ♡ by Kayla Posthumus*
+*With ♡ by Kayla Posthumus*
 
 </div>
