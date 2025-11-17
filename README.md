@@ -26,6 +26,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=A3B18A)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=A3B18A)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=A3B18A)
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=A3B18A)
 ![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=A3B18A)
@@ -77,13 +78,18 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 
 ### 2025 Projects
 
-#### **Coming Soon**
-> Exciting new projects currently in development.
+#### **Semester 2.2 – DUNNO**
+<img src="./assets/Dunno.jpg"/>
+
+> AI-powered gift suggestion platform that eliminates the guesswork from gift-giving through personalised recommendations based on friend collections and preferences.
+
+**Tech:** Flutter • Dart • Firebase • OpenAI GPT • BLoC • pub.dev
+🔗 **[Repo](https://github.com/KaylaPosthumusOW/dunno_app)**
 
 ### 2024 Projects
 
 #### **Term 1 – FootStats**
-<img src="./assets/footstats%20readme.jpg" width="500"/>
+<img src="./assets/footstats%20readme.jpg"/>
 
 > A football data visualisation platform with real-time, interactive graphs.
 
@@ -91,7 +97,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 🔗 **[Repo](https://github.com/KaylaPosthumusOW/FootStats.git)**
 
 #### **Term 2 – Exhibito**
-<img src="./assets/exhibito.jpg" width="500"/>
+<img src="./assets/exhibito.jpg"/>
 
 > MERN stack exhibition manager that allows art houses to create and manage exhibitions.
 
@@ -99,7 +105,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 🔗 **[Repo](https://github.com/WolfOWI/exhibito.git)**
 
 #### **Term 3 – FairyHaven Homes**
-<img src="./assets/FHH.jpg" width="500"/>
+<img src="./assets/FHH.jpg"/>
 
 > A whimsical UX-focused property management system with secure authentication.
 
@@ -107,7 +113,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 🔗 **[Repo](https://github.com/KaylaPosthumusOW/FairyHaven_Homes)**
 
 #### **Term 4 – Rejuicenate**
-<img src="./assets/rejuicenate github.jpg" width="500"/>
+<img src="./assets/rejuicenate github.jpg"/>
 
 > A wellness & nutrition platform with progress tracking, gamification, and personalised juices.
 
