@@ -94,9 +94,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 **Tech:** React • Express • Chart.js • Axios  
 🔗 **Repo:** https://github.com/KaylaPosthumusOW/FootStats.git
 
----
-
-## **Term 2 – Exhibito**
+### **Term 2 – Exhibito**
 <img src="./assets/exhibito.jpg" width="500"/>
 
 > MERN stack exhibition manager that allows art houses to create and manage exhibitions.
@@ -104,9 +102,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 **Tech:** MongoDB • Express • React • Node.js • Tailwind • JWT  
 🔗 **Repo:** https://github.com/WolfOWI/exhibito.git
 
----
-
-## **Term 3 – FairyHaven Homes**
+### **Term 3 – FairyHaven Homes**
 <img src="./assets/FHH.jpg" width="500"/>
 
 > A whimsical UX-focused property management system with secure authentication.
@@ -114,9 +110,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 **Tech:** MERN Stack  
 🔗 **Repo:** *(coming soon?)*
 
----
-
-## **Term 4 – Rejuicenate**
+### **Term 4 – Rejuicenate**
 <img src="./assets/rejuicenate github.jpg" width="500"/>
 
 > A wellness & nutrition platform with progress tracking, gamification, and personalised juices.
