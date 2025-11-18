@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/Github profile.jpg" width="500"/>
+<img src="./assets/Github profile.jpg" width="100%"/>
 
-### 👩‍💻 Interactive Developer | 🎨 UX Designer | 🌿 Creative Problem Solver
+## 👩‍💻 Interactive Developer | 🎨 UX Designer | 🌿 Creative Problem Solver
 
 </div>
 
@@ -17,7 +17,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 🌱 **Currently learning**: Advanced Flutter patterns, Firebase integrations, and modern backend architecture  
 💡 **Passionate about**: Clean UI, mobile-first design, and accessible web experiences  
 
-## ⚙️ Technologies
+# ⚙️ Technologies
 
 ### ⭐ Main Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=A3B18A)
@@ -69,7 +69,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=A3B18A)
 ![Heroku](https://img.shields.io/badge/Heroku-000000?style=flat&logo=heroku&logoColor=A3B18A)
 
-## 📊 Statistics
+# 📊 Statistics
 
 <div align="center">
 
@@ -78,9 +78,11 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 
 </div>
 
-## ♡ My Projects ♡
+# ♡ My Projects ♡
 
-### 2025 Projects
+---
+
+## 2025 Projects
 
 #### **Semester 1.1 – CoriCore API**
 <img src="./assets/CoriCore.jpg"/>
@@ -116,9 +118,11 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 
 **Tech:** Flutter • Dart • Firebase • OpenAI GPT • BLoC • pub.dev packages  • Lottie
 
-🔗 **[Repo](https://github.com/KaylaPosthumusOW/dunno_app)**
+🔗 **[Repo](https://github.com/KaylaPosthumusOW/frame_app)**
 
-### 2024 Projects
+---
+
+## 2024 Projects
 
 #### **Term 1 – FootStats**
 <img src="./assets/FootStats.jpg"/>
