@@ -34,6 +34,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 
 ### Front-End Development
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=A3B18A)
+![Material UI](https://img.shields.io/badge/Material_UI-000000?style=flat&logo=mui&logoColor=A3B18A)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=A3B18A)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=A3B18A)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=A3B18A)
@@ -48,22 +49,25 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=A3B18A)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=A3B18A)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=A3B18A)
+![Firestore](https://img.shields.io/badge/Firestore-000000?style=flat&logo=firebase&logoColor=A3B18A)
 
-### Charting & Data Visualisation
+### Tools & Libraries
 ![Chart.js](https://img.shields.io/badge/Chart.js-000000?style=flat&logo=chart.js&logoColor=A3B18A)
-
-### Deployment & Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=A3B18A)
-![Heroku](https://img.shields.io/badge/Heroku-000000?style=flat&logo=heroku&logoColor=A3B18A)
-
-### Software & Tools
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=A3B18A)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-000000?style=flat&logo=adobe-illustrator&logoColor=A3B18A)
+![MUI X Charts](https://img.shields.io/badge/MUI_X_Charts-000000?style=flat&logo=mui&logoColor=A3B18A)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visual-studio-code&logoColor=A3B18A)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=flat&logo=android-studio&logoColor=A3B18A)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=A3B18A)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=A3B18A)
 ![Pub.dev](https://img.shields.io/badge/Pub.dev-000000?style=flat&logo=dart&logoColor=A3B18A)
+
+### Creative Tools
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=A3B18A)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-000000?style=flat&logo=adobe-illustrator&logoColor=A3B18A)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-000000?style=flat&logo=adobe-photoshop&logoColor=A3B18A)
+
+### Deployment & Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=A3B18A)
+![Heroku](https://img.shields.io/badge/Heroku-000000?style=flat&logo=heroku&logoColor=A3B18A)
 
 ## 📊 Statistics
 
@@ -78,18 +82,46 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 
 ### 2025 Projects
 
+#### **Semester 1.1 – CoriCore API**
+<img src="./assets/CoriCore.jpg"/>
+
+> The RESTful API powering Coriander's HR Management System, built with ASP.NET Core and PostgreSQL. Delivers robust, well-documented endpoints for comprehensive HR operations, complete with Swagger documentation and thorough test coverage.
+
+**Tech:** ASP.NET Core 9.0 • C# • PostgreSQL • Entity Framework Core • JWT & Google OAuth • BCrypt • MailKit • Swagger • xUnit • Docker
+
+🔗 **[Repo](https://github.com/WolfOWI/coriander)**
+
+#### **Semester 1.2 – Coriander HR**
+<img src="./assets/Coriander.jpg"/>
+
+> A modern desktop HR platform developed with Electron, React, and TypeScript. Simplifies workforce management through seamless leave tracking, meeting scheduling, equipment oversight, and performance assessment tools.
+
+**Tech:** Flutter • Dart • Firebase • BLoC • pub.dev packages
+
+🔗 **[Repo](https://github.com/WolfOWI/coriander)**
+
+#### **Semester 2.1 – Frame**
+<img src="./assets/Frame.jpg"/>
+
+> A social creativity platform that fosters daily creative expression through prompts, frames, and community engagement. Track your creative streak, share your work, and connect with fellow creators.
+
+**Tech:** React • Electron • TypeScript • Vite • Ant Design • Tailwind CSS • Material-UI Icons • MUI X Charts • Google OAuth • Axios • Day.js • Jest • React Testing Library • PDFMake • Lottie React
+
+🔗 **[Repo](https://github.com/KaylaPosthumusOW/frame_app)**
+
 #### **Semester 2.2 – DUNNO**
 <img src="./assets/Dunno.jpg"/>
 
 > AI-powered gift suggestion platform that eliminates the guesswork from gift-giving through personalised recommendations based on friend collections and preferences.
 
-**Tech:** Flutter • Dart • Firebase • OpenAI GPT • BLoC • pub.dev
+**Tech:** Flutter • Dart • Firebase • OpenAI GPT • BLoC • pub.dev packages  • Lottie
+
 🔗 **[Repo](https://github.com/KaylaPosthumusOW/dunno_app)**
 
 ### 2024 Projects
 
 #### **Term 1 – FootStats**
-<img src="./assets/footstats%20readme.jpg"/>
+<img src="./assets/FootStats.jpg"/>
 
 > A football data visualisation platform with real-time, interactive graphs.
 
@@ -97,7 +129,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 🔗 **[Repo](https://github.com/KaylaPosthumusOW/FootStats.git)**
 
 #### **Term 2 – Exhibito**
-<img src="./assets/exhibito.jpg"/>
+<img src="./assets/Exhibito.jpg"/>
 
 > MERN stack exhibition manager that allows art houses to create and manage exhibitions.
 
@@ -105,7 +137,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 🔗 **[Repo](https://github.com/WolfOWI/exhibito.git)**
 
 #### **Term 3 – FairyHaven Homes**
-<img src="./assets/FHH.jpg"/>
+<img src="./assets/FairyHaven_Homes.jpg"/>
 
 > A whimsical UX-focused property management system with secure authentication.
 
@@ -113,7 +145,7 @@ Hello! I'm **Kayla Posthumus**, a passionate **Interactive Developer** and **Use
 🔗 **[Repo](https://github.com/KaylaPosthumusOW/FairyHaven_Homes)**
 
 #### **Term 4 – Rejuicenate**
-<img src="./assets/rejuicenate github.jpg"/>
+<img src="./assets/Rejuicenate.jpg"/>
 
 > A wellness & nutrition platform with progress tracking, gamification, and personalised juices.
 
